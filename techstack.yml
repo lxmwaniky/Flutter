@@ -1,0 +1,260 @@
+repo_name: lxmwaniky/flutter
+report_id: c97838299b473dea21aba58655334036
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-17T21:44:00+00:00'
+requested_by: JNdhlovu
+provider: github
+branch: main
+detected_tools_count: 21
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/android/app/build.gradle
+  detection_source: example/android/app/build.gradle
+  last_updated_by: Juma Allan
+  last_updated_on: 2023-07-18 08:13:02.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/pubspec.yaml
+  detection_source: example/pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-10-05 23:22:36.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/.github/workflows/build.yaml
+  detection_source: ".github/workflows/build.yaml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-27 22:24:54.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/android/build.gradle
+  detection_source: android/build.gradle
+  last_updated_by: Juma Allan
+  last_updated_on: 2023-10-18 23:40:33.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/android/app/build.gradle
+  detection_source: example/android/app/build.gradle
+  last_updated_by: Juma Allan
+  last_updated_on: 2023-07-18 08:13:02.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/ios/Podfile.lock
+  detection_source: example/ios/Podfile.lock
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-08-01 09:12:25.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lxmwaniky/flutter
+  detection_source: Repo Metadata
+- name: build_runner
+  description: A build system for Dart code generation and modular compilation
+  package_url: https://pub.dartlang.org/build_runner
+  version: 2.4.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-08-15 10:40:06.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/pubspec.lock
+  detection_source: example/pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-08-15 10:40:06.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/pubspec.lock
+  detection_source: example/pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-10-05 23:22:36.000000000 Z
+- name: mockito
+  description: A mock framework inspired by Mockito with APIs for Fakes
+  package_url: https://pub.dartlang.org/mockito
+  version: 5.4.2
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-08-15 10:40:06.000000000 Z
+- name: plugin_platform_interface
+  description: Reusable base class for platform interfaces of Flutter federated plugins
+  package_url: https://pub.dartlang.org/plugin_platform_interface
+  version: 2.1.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-08-09 21:18:41.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/example/android/app/build.gradle
+  detection_source: example/android/app/build.gradle
+  last_updated_by: Vansh Gandhi
+  last_updated_on: 2023-10-05 23:22:36.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-test
+  description: Kotlin Test
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/android/build.gradle
+  detection_source: android/build.gradle
+  last_updated_by: Juma Allan
+  last_updated_on: 2023-11-14 16:59:18.000000000 Z
+- name: org.jetbrains.kotlinx:kotlinx-coroutines-core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/lxmwaniky/flutter/blob/main/android/build.gradle
+  detection_source: android/build.gradle
+  last_updated_by: Juma Allan
+  last_updated_on: 2023-11-14 16:59:18.000000000 Z
